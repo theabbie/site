@@ -1,23 +1,22 @@
 social_icons:
   - title: Twitter
-    url: '#'
+    url: 'https://twitter.com/TheAbbiee'
     icon: fa-twitter
   - title: Facebook
-    url: '#'
+    url: 'https://facebook.com/abhishek.vice.versa'
     icon: fa-facebook
   - title: LinkedIn
-    url: '#'
+    url: 'https://www.linkedin.com/in/theabbie'
     icon: fa-linkedin
   - title: Github
-    url: '#'
+    url: 'https://github.com/theabbie'
     icon: fa-github
   - title: Email
-    url: '#'
+    url: 'mailto:abhishek7gg7@gmail.com'
     icon: fa-envelope
 copyright: >-
-  &copy; Construct. All rights reserved. Lorem ipsum dolor sit amet nullam
-  consequat.
+  &copy; TheAbbie. All rights reserved.
 links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
+  - text: @TheAbbie
+    url: 'https://theabbie.github.io'
     new_window: true
